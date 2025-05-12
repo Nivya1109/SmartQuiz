@@ -1,0 +1,44 @@
+Q: What does Artificial Intelligence (AI) refer to?
+A: The simulation of human intelligence in machines programmed to think and learn like humans.
+
+Q: What is Narrow AI?
+A: AI specialized in performing a single specific task.
+
+Q: What is General AI?
+A: AI that can perform any intellectual task that a human can do.
+
+Q: What is Super AI?
+A: A theoretical form of AI that surpasses human intelligence.
+
+Q: Name two virtual assistants that use AI.
+A: Siri and Alexa.
+
+Q: Give an example of AI in transportation.
+A: Autonomous vehicles.
+
+Q: How does Netflix use AI?
+A: Through recommendation systems based on user preferences.
+
+Q: What are three common applications of AI?
+A: Virtual assistants, recommendation systems, and fraud detection.
+
+Q: What is a benefit of AI related to data?
+A: It provides data-driven insights.
+
+Q: How does AI improve efficiency?
+A: By automating tasks and operating at high speed.
+
+Q: What is one concern related to AI and ethics?
+A: Bias and fairness in algorithmic decisions.
+
+Q: What job-related challenge is posed by AI?
+A: Potential job displacement due to automation.
+
+Q: How can AI affect personal information?
+A: It can raise privacy concerns.
+
+Q: What kind of fraud can AI help detect?
+A: Credit card fraud and cybersecurity threats.
+
+Q: What is a major theoretical risk of Super AI?
+A: Surpassing human control and decision-making capability.
